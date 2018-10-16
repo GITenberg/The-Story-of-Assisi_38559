@@ -41,5 +41,6 @@ series_note: Mediæval town series
 subjects:
 - !lcc 'DG'
 - !lcsh 'Assisi (Italy)'
+- GITenberg
 title: The Story of Assisi
 url: http://www.gutenberg.org/ebooks/38559
